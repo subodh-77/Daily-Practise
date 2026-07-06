@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/subodh-77/Daily-Practise/tree/master/0131-palindrome-partitioning) |
 | [3620-network-recovery-pathways](https://github.com/subodh-77/Daily-Practise/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/subodh-77/Daily-Practise/tree/master/0131-palindrome-partitioning) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/subodh-77/Daily-Practise/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
