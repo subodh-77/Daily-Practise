@@ -15,7 +15,7 @@ public:
     //      return minSum(grid,m-1,n-1);
     // }
 
-            //Now this memoised code give Memory Limit Exceeded
+           
     int minSum(vector<vector<int>>&dp,vector<vector<int>>&grid,int i,int j){
         if(i<0||j<0)return 1e9;
         if(i==0&&j==0)return grid[i][j];
@@ -32,7 +32,7 @@ public:
          return minSum(dp,grid,m-1,n-1);
     }
 
-
+//bottom up approach
     // int minPathSum(vector<vector<int>>& grid) {
     //     int m = grid.size();
     //     int n = grid[0].size();
