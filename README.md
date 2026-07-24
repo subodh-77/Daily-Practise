@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0064-minimum-path-sum) |
+| [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subodh-77/Daily-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
