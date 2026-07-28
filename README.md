@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0064-minimum-path-sum) |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/subodh-77/Daily-Practise/tree/master/3620-network-recovery-pathways) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/subodh-77/Daily-Practise/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/subodh-77/Daily-Practise/tree/master/0206-reverse-linked-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
