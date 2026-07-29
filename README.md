@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/subodh-77/Daily-Practise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/subodh-77/Daily-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/subodh-77/Daily-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subodh-77/Daily-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,12 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subodh-77/Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
 |  |
 | ------- |
