@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -78,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [3620-network-recovery-pathways](https://github.com/subodh-77/Daily-Practise/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
