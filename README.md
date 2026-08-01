@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/subodh-77/Daily-Practise/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/subodh-77/Daily-Practise/tree/master/3620-network-recovery-pathways) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/subodh-77/Daily-Practise/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 ## Quickselect
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/subodh-77/Daily-Practise/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/subodh-77/Daily-Practise/tree/master/0595-big-countries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
