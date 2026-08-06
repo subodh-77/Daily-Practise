@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -163,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subodh-77/Daily-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/subodh-77/Daily-Practise/tree/master/0055-jump-game) |
+| [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
