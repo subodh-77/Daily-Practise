@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [2256-minimum-average-difference](https://github.com/subodh-77/Daily-Practise/tree/master/2256-minimum-average-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/subodh-77/Daily-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/subodh-77/Daily-Practise/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/subodh-77/Daily-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
