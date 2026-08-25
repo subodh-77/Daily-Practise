@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subodh-77/Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/subodh-77/Daily-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
