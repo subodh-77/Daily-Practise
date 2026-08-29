@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
+| [2187-minimum-time-to-complete-trips](https://github.com/subodh-77/Daily-Practise/tree/master/2187-minimum-time-to-complete-trips) |
 | [2256-minimum-average-difference](https://github.com/subodh-77/Daily-Practise/tree/master/2256-minimum-average-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2187-minimum-time-to-complete-trips](https://github.com/subodh-77/Daily-Practise/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
