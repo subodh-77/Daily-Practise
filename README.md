@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/subodh-77/Daily-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/subodh-77/Daily-Practise/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/subodh-77/Daily-Practise/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0063-unique-paths-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/subodh-77/Daily-Practise/tree/master/0033-search-in-rotated-sorted-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/subodh-77/Daily-Practise/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
