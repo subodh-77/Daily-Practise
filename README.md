@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/subodh-77/Daily-Practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/subodh-77/Daily-Practise/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/subodh-77/Daily-Practise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/subodh-77/Daily-Practise/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
