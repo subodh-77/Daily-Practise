@@ -2,8 +2,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # Daily Practise
 <!-- BADGE_START -->
-![Solved](https://img.shields.ioved-73-brightgreen
+!ttps://img.shields.io/badge/LeetCode%20Solved-73-orange?style=for-the-badge
 <!-- BADGE_END -->
+
+<!-- SOLVED_COUNT_START -->
+Solved Problems: 73
+<!-- SOLVED_COUNT_END -->
 # LeetCode Topics
 ## Array
 |  |
