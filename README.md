@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # Daily Practise
 <!-- BADGE_START -->
-!ttps://img.shields.io/badge/LeetCode%20Solved-73-orange?style=for-the-badge
+![Solved](https://img.shields.ioved-73-brightgreen
 <!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
