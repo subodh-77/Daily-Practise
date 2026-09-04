@@ -1,9 +1,9 @@
 <!-- BADGE_START -->
-![LeetCode Solields.io/badge/LeetCode%20Solved-0-orange?style=for-the-badge
+![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved--badge
 <!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
-Solved Problems: 0
+Solved Problems: 73
 <!-- SOLVED_COUNT_END -->
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
