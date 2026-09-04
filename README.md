@@ -1,5 +1,12 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
+# Daily Practise
+
+![Solved](https://img.shields.io/badge/Problems_Solved-0en
+
+<!-- SOLVED_COUNT_START -->
+Solved Problems: 0
+<!-- SOLVED_COUNT_END -->
 # LeetCode Topics
 ## Array
 |  |
