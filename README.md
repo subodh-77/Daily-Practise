@@ -1,5 +1,5 @@
 <!-- BADGE_START -->
-![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved--badge
+https**/img.shields.io/badge/LeetCode-73**0Solved-orange
 <!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
