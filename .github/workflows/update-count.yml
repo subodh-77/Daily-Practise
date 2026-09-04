@@ -24,11 +24,11 @@ jobs:
 
       - name: Update README
         run: |
-         COUNT=${{ steps.count.outputs.count }}
+          COUNT=${{ steps.count.outputs.count }}
 
-         sed -i "/SOLVED_COUNT_START/,/SOLVED_COUNT_END/c\\<!-- SOLVED_COUNT_START -->\nSolved Problems: $COUNT\n<!-- SOLVED_COUNT_END -->" README.md
+          sed -i "/SOLVED_COUNT_START/,/SOLVED_COUNT_END/c\\<!-- SOLVED_COUNT_START -->\nSolved Problems: $COUNT\n<!-- SOLVED_COUNT_END -->" README.md
 
-         sed -i "/BADGE_START/,/BADGE_END/c\\<!-- BADGE_START -->\n![Solved](https://img.shields.ioved-$COUNT-brightgreen\n<!-- BADGE_END -->" README.md
+          sed -i "/BADGE_START/,/BADGE_END/c\\<!-- BADGE_START -->\n![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved-$COUNThe-badge\n<!-- BADGE_END -->" README.md
 
       - name: Commit Changes
         run: |
@@ -36,5 +36,8 @@ jobs:
           git config --global user.email "github-actions@github.com"
 
           git add README.md
-          git diff --staged --quiet || git commit -m "Update solved count"
-          git push
+
+          if ! git diff --staged --quiet; then
+            git commit -m "Update solved count"
+            git push
+          fi
