@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
-Solved Problems: 0
+Solved Problems: 73
 <!-- SOLVED_COUNT_END -->
 # LeetCode Topics
 ## Array
