@@ -1,9 +1,9 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # Daily Practise
-sed -i "/BADGE_START/,/BADGE_END/c\\<!-- BADGE_START -->
-\n![LeetCode Solved](https://img.etCode%20Solved-$COUNT-orange?style=for-the-badge\n
-<!-- BADGE_END -->" README.md
+<!-- BADGE_START -->
+![Solved](https://img.shields.ioved-73-brightgreen
+<!-- BADGE_END -->
 # LeetCode Topics
 ## Array
 |  |
