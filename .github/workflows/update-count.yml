@@ -24,8 +24,11 @@ jobs:
 
       - name: Update README
         run: |
-          COUNT=${{ steps.count.outputs.count }}
-          sed -i "/SOLVED_COUNT_START/,/SOLVED_COUNT_END/c\\<!-- SOLVED_COUNT_START -->\nSolved Problems: $COUNT\n<!-- SOLVED_COUNT_END -->" README.md
+         COUNT=${{ steps.count.outputs.count }}
+
+         sed -i "/SOLVED_COUNT_START/,/SOLVED_COUNT_END/c\\<!-- SOLVED_COUNT_START -->\nSolved Problems: $COUNT\n<!-- SOLVED_COUNT_END -->" README.md
+
+         sed -i "/BADGE_START/,/BADGE_END/c\\<!-- BADGE_START -->\n![Solved](https://img.shields.ioved-$COUNT-brightgreen\n<!-- BADGE_END -->" README.md
 
       - name: Commit Changes
         run: |
