@@ -1,0 +1,37 @@
+name: Update Solved Count
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count Problems
+        id: count
+        run: |
+          COUNT=$(find . -maxdepth 1 -type d -regex './[0-9].*' | wc -l)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          COUNT=${{ steps.count.outputs.count }}
+          sed -i "/SOLVED_COUNT_START/,/SOLVED_COUNT_END/c\\<!-- SOLVED_COUNT_START -->\nSolved Problems: $COUNT\n<!-- SOLVED_COUNT_END -->" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update solved count"
+          git push
