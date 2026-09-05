@@ -3,7 +3,7 @@
 <!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
-Solved Problems: 73
+Solved Problems: 74
 <!-- SOLVED_COUNT_END -->
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
