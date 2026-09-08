@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/subodh-77/Daily-Practise/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1927-sum-game](https://github.com/subodh-77/Daily-Practise/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subodh-77/Daily-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
