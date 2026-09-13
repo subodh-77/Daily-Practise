@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0064-minimum-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
