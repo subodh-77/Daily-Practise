@@ -5,5 +5,6 @@ public:
             return true;
         }
         return false;
+        //just a analysis game in graph
     }
 };
