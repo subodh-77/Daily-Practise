@@ -6,6 +6,10 @@ on:
       - main
   workflow_dispatch:
 
+concurrency:
+  group: update-count
+  cancel-in-progress: true
+
 jobs:
   update-count:
     runs-on: ubuntu-latest
@@ -39,5 +43,6 @@ jobs:
 
           if ! git diff --staged --quiet; then
             git commit -m "Update solved count"
+            git pull --rebase origin main
             git push
           fi
