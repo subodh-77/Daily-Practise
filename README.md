@@ -1,6 +1,3 @@
-<!-- BADGE_START -->
-![LeetCode Solved](https://img.shields.io/badge/LeetCode%20Solved--badge
-<!-- BADGE_END -->
 
 <!-- SOLVED_COUNT_START -->
 Solved Problems: 85
