@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/subodh-77/Daily-Practise/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/subodh-77/Daily-Practise/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1927-sum-game](https://github.com/subodh-77/Daily-Practise/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subodh-77/Daily-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subodh-77/Daily-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/subodh-77/Daily-Practise/tree/master/1927-sum-game) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/subodh-77/Daily-Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
