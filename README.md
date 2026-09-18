@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/subodh-77/Daily-Practise/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subodh-77/Daily-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/subodh-77/Daily-Practise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subodh-77/Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
