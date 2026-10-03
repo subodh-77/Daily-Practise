@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0100-same-tree) |
 | [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0407-trapping-rain-water-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0100-same-tree) |
 | [0210-course-schedule-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subodh-77/Daily-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subodh-77/Daily-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
