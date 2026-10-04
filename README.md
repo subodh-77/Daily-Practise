@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/subodh-77/Daily-Practise/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
