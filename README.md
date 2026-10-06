@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/subodh-77/Daily-Practise/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/subodh-77/Daily-Practise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subodh-77/Daily-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting Sort
