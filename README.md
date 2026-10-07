@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/subodh-77/Daily-Practise/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/subodh-77/Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subodh-77/Daily-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subodh-77/Daily-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
@@ -463,4 +467,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
