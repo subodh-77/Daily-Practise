@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/subodh-77/Daily-Practise/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subodh-77/Daily-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subodh-77/Daily-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/subodh-77/Daily-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subodh-77/Daily-Practise/tree/master/3718-smallest-missing-multiple-of-k) |
