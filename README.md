@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subodh-77/Daily-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/subodh-77/Daily-Practise/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/subodh-77/Daily-Practise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/subodh-77/Daily-Practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/subodh-77/Daily-Practise/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/subodh-77/Daily-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
