@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/subodh-77/Daily-Practise/tree/master/2256-minimum-average-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/subodh-77/Daily-Practise/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/subodh-77/Daily-Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/subodh-77/Daily-Practise/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/subodh-77/Daily-Practise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Shortest Path
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/subodh-77/Daily-Practise/tree/master/1833-maximum-ice-cream-bars) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/subodh-77/Daily-Practise/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/subodh-77/Daily-Practise/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2580-count-ways-to-group-overlapping-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/subodh-77/Daily-Practise/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
