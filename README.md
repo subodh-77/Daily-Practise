@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/subodh-77/Daily-Practise/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/subodh-77/Daily-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/subodh-77/Daily-Practise/tree/master/3024-type-of-triangle) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/subodh-77/Daily-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3175-find-the-first-player-to-win-k-games-in-a-row](https://github.com/subodh-77/Daily-Practise/tree/master/3175-find-the-first-player-to-win-k-games-in-a-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/subodh-77/Daily-Practise/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3096-minimum-levels-to-gain-more-points](https://github.com/subodh-77/Daily-Practise/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/subodh-77/Daily-Practise/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3904-smallest-stable-index-ii) |
