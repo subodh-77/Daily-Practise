@@ -19,3 +19,4 @@ int solve(vector<int>& energy,int i,vector<int>&dp){
     return max_energy;
     }
 };
+//just copy paste due to cold while comes from dehradun from infoys system engineer drive where i fail in aptitude
