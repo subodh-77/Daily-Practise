@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subodh-77/Daily-Practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subodh-77/Daily-Practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/subodh-77/Daily-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/subodh-77/Daily-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/subodh-77/Daily-Practise/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
@@ -533,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/subodh-77/Daily-Practise/tree/master/3024-type-of-triangle) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
