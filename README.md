@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/subodh-77/Daily-Practise/tree/master/2187-minimum-time-to-complete-trips) |
 | [2256-minimum-average-difference](https://github.com/subodh-77/Daily-Practise/tree/master/2256-minimum-average-difference) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/subodh-77/Daily-Practise/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/subodh-77/Daily-Practise/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/subodh-77/Daily-Practise/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/subodh-77/Daily-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/subodh-77/Daily-Practise/tree/master/1927-sum-game) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/subodh-77/Daily-Practise/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/subodh-77/Daily-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/subodh-77/Daily-Practise/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subodh-77/Daily-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
