@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/subodh-77/Daily-Practise/tree/master/0033-search-in-rotated-sorted-array) |
+| [0754-reach-a-number](https://github.com/subodh-77/Daily-Practise/tree/master/0754-reach-a-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/subodh-77/Daily-Practise/tree/master/2187-minimum-time-to-complete-trips) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/subodh-77/Daily-Practise/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0754-reach-a-number](https://github.com/subodh-77/Daily-Practise/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
