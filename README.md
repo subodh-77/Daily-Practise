@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/subodh-77/Daily-Practise/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0953-verifying-an-alien-dictionary](https://github.com/subodh-77/Daily-Practise/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/subodh-77/Daily-Practise/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
+| [0953-verifying-an-alien-dictionary](https://github.com/subodh-77/Daily-Practise/tree/master/0953-verifying-an-alien-dictionary) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/subodh-77/Daily-Practise/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/subodh-77/Daily-Practise/tree/master/0953-verifying-an-alien-dictionary) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/subodh-77/Daily-Practise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
