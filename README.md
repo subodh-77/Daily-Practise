@@ -1,6 +1,6 @@
 
 <!-- SOLVED_COUNT_START -->
-Solved Problems: 134
+Solved Problems: 135
 <!-- SOLVED_COUNT_END -->
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
