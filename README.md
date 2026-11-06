@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/subodh-77/Daily-Practise/tree/master/0953-verifying-an-alien-dictionary) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/subodh-77/Daily-Practise/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/subodh-77/Daily-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/subodh-77/Daily-Practise/tree/master/0881-boats-to-save-people) |
