@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/subodh-77/Daily-Practise/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/subodh-77/Daily-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2439-minimize-maximum-of-array](https://github.com/subodh-77/Daily-Practise/tree/master/2439-minimize-maximum-of-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/subodh-77/Daily-Practise/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/subodh-77/Daily-Practise/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/subodh-77/Daily-Practise/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/subodh-77/Daily-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/subodh-77/Daily-Practise/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/subodh-77/Daily-Practise/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/subodh-77/Daily-Practise/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/subodh-77/Daily-Practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/subodh-77/Daily-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/subodh-77/Daily-Practise/tree/master/0904-fruit-into-baskets) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/subodh-77/Daily-Practise/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/subodh-77/Daily-Practise/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/subodh-77/Daily-Practise/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/subodh-77/Daily-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
