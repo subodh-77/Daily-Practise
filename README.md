@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/subodh-77/Daily-Practise/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/subodh-77/Daily-Practise/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/subodh-77/Daily-Practise/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/subodh-77/Daily-Practise/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/subodh-77/Daily-Practise/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/subodh-77/Daily-Practise/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/subodh-77/Daily-Practise/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0733-flood-fill](https://github.com/subodh-77/Daily-Practise/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/subodh-77/Daily-Practise/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/subodh-77/Daily-Practise/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/subodh-77/Daily-Practise/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -413,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/subodh-77/Daily-Practise/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/subodh-77/Daily-Practise/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/subodh-77/Daily-Practise/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/subodh-77/Daily-Practise/tree/master/3223-minimum-length-of-string-after-operations) |
