@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/subodh-77/Daily-Practise/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/subodh-77/Daily-Practise/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subodh-77/Daily-Practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/subodh-77/Daily-Practise/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/subodh-77/Daily-Practise/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/subodh-77/Daily-Practise/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
