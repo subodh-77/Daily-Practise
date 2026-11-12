@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/subodh-77/Daily-Practise/tree/master/0062-unique-paths) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/subodh-77/Daily-Practise/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/subodh-77/Daily-Practise/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/subodh-77/Daily-Practise/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/subodh-77/Daily-Practise/tree/master/0754-reach-a-number) |
