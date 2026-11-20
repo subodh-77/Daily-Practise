@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/subodh-77/Daily-Practise/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/subodh-77/Daily-Practise/tree/master/3295-report-spam-message) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/subodh-77/Daily-Practise/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/subodh-77/Daily-Practise/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/subodh-77/Daily-Practise/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3295-report-spam-message](https://github.com/subodh-77/Daily-Practise/tree/master/3295-report-spam-message) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/subodh-77/Daily-Practise/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/subodh-77/Daily-Practise/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/subodh-77/Daily-Practise/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/subodh-77/Daily-Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/subodh-77/Daily-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/subodh-77/Daily-Practise/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/subodh-77/Daily-Practise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/subodh-77/Daily-Practise/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/subodh-77/Daily-Practise/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quickselect
 |  |
 | ------- |
