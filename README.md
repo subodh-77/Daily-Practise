@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/subodh-77/Daily-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/subodh-77/Daily-Practise/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/subodh-77/Daily-Practise/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/subodh-77/Daily-Practise/tree/master/0894-all-possible-full-binary-trees) |
 | [0940-distinct-subsequences-ii](https://github.com/subodh-77/Daily-Practise/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/subodh-77/Daily-Practise/tree/master/1140-stone-game-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/subodh-77/Daily-Practise/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/subodh-77/Daily-Practise/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/subodh-77/Daily-Practise/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/subodh-77/Daily-Practise/tree/master/0486-predict-the-winner) |
+| [0894-all-possible-full-binary-trees](https://github.com/subodh-77/Daily-Practise/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/subodh-77/Daily-Practise/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quickselect
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/subodh-77/Daily-Practise/tree/master/0894-all-possible-full-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/subodh-77/Daily-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/subodh-77/Daily-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/subodh-77/Daily-Practise/tree/master/0894-all-possible-full-binary-trees) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/subodh-77/Daily-Practise/tree/master/0139-word-break) |
+| [0894-all-possible-full-binary-trees](https://github.com/subodh-77/Daily-Practise/tree/master/0894-all-possible-full-binary-trees) |
 ## Brute-Force Search
 |  |
 | ------- |
